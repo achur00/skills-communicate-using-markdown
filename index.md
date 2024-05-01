@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+```php
+$myVar = "Hello, world!";
+```
